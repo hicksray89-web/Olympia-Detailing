@@ -1,1 +1,0 @@
-Olympia Automotive Detailing - Clean Next.js single-page site (App Router). Replace /public/assets/logo.png with your logo. Booking link wired.
