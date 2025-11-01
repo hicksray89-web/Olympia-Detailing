@@ -1,0 +1,1 @@
+Clean Next.js 14.2.5 single-page site. Replace /public/assets/logo.png with your logo. Booking link wired.
